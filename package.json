@@ -1,0 +1,22 @@
+{
+  "name": "double-option-example",
+  "version": "1.0.0",
+  "description": "Example of @polkadot/types nested option behaviour",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lezek123/double-option-example.git"
+  },
+  "author": "Leszek Wiesner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lezek123/double-option-example/issues"
+  },
+  "homepage": "https://github.com/Lezek123/double-option-example#readme",
+  "dependencies": {
+    "@polkadot/types": "^4.6.2"
+  }
+}
