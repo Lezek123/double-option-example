@@ -1,0 +1,4 @@
+- `git clone https://github.com/Lezek123/double-option-example`
+- `cd double-option-example`
+- `npm install`
+- `node index.js`
